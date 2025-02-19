@@ -1,4 +1,4 @@
-./aidge_wheels/aidge_core-0.5.1-cp311-cp311-linux_x86_64.whl
+./aidge_wheels/aidge_core-0.5.0-cp311-cp311-linux_x86_64.whl
 ./aidge_wheels/aidge_onnx-0.4.1-py3-none-any.whl
 ./aidge_wheels/aidge_backend_cpu-0.5.0-cp311-cp311-linux_x86_64.whl
 ./aidge_wheels/aidge_export_cpp-0.2.1-py3-none-any.whl
